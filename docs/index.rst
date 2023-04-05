@@ -10,11 +10,11 @@ UNTL Digital Collections Handbook
    :maxdepth: 2
    :caption: Contents:
 
+   /guides/workflow-folders
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+
+
+
