@@ -1,0 +1,61 @@
+@import url("theme.css");
+
+a.icon.icon-home::before {
+	display: none !important;
+}
+
+.wy-nav-content{
+  max-width:1000px !important;
+}
+
+.wy-nav-content th.head,
+.wy-nav-content td {
+    white-space: normal !important;
+    vertical-align: top !important;
+}
+
+.wy-table thead th,.rst-content table.docutils thead th,.rst-content table.field-list thead th {
+	border:solid 1px #e1e4e5 !important;
+}
+
+/* .wy-plain-list-disc,.rst-content .section ul,.rst-content .toctree-wrapper ul,article ul {
+	margin-bottom:0px !important;
+} */
+
+
+/* Styling for better consistency with UNT Libraries site */
+a {
+    color: #00853e;
+}
+
+a:hover,
+a:visited {
+    color: #00391a;
+}
+
+.wy-side-nav-search a,
+.wy-side-nav-search a:hover,
+.wy-side-nav-search a:visited,
+.wy-nav-top a,
+.wy-nav-top a:hover,
+.wy-nav-top a:visited {
+    color: #FFFFFF;
+}
+
+.wy-menu-vertical p.caption {
+    color: #7AC143;
+}
+
+.wy-menu-vertical a,
+.wy-menu-vertical a:hover,
+.wy-menu-vertical a:visited {
+    color: #FFFFFF;
+}
+
+.rst-content .note .admonition-title {
+    background: #17a2b8 linear-gradient(180deg,#3ab0c3,#17a2b8) repeat-x;
+}
+
+.rst-content .note {
+    background: rgba(22, 162, 184, 0.25);
+}
