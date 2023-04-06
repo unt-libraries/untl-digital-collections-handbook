@@ -7,10 +7,11 @@ UNTL Digital Collections Handbook
 =================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    /guides/workflow-folders
+   /guides/magicknumbers
 
 
 

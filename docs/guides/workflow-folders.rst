@@ -63,6 +63,19 @@ First off, in the 0.Staging folder, we can begin to sort items that need to be d
 
 The next step in this workflow is called 1.Scanning. As an example, we will be digitizing a journal for a historical society. As a technician is digitizing the item, they can place working files into this workflow step’s folder. Once they have completed the initial quality control check, they will move the object folder to the next step’s folder in the workflow called 2.ToQC. In this step, another round of quality control is performed by another person in the unit. As this step is being completed, if there are any issues, such as missing pages or images that need to be rescanned, the person completing the quality control can move this object folder to the 3.Issues folder. If there are no problems, they can move the object folder to the 4.ToOCR folder in the workflow. At this step in the workflow, the person responsible for OCRing items will take items from this workflow folder and process them with an OCR engine. After that has completed, the object folder is moved to the 5.ToMetadata folder, where they will have descriptive metadata created for them. This step may involve full-record metadata creation or could involve the creation of basic metadata that will be updated and completed later when it is loaded into the system. After this metadata has been generated, the object folder is moved to the 6.ToUpload folder. The final three steps in this workflow outline the ingest activities of the UNT Digital Library where content is staged for upload and finally ingested into both the access repository, Aubrey, and the preservation repository, Coda. During this ingest period, the object folder is moved into the 7.Uploading folder to indicate that it is being uploaded to the system. Once verification of upload has taken place, the object folder is moved to the final folder, 8.Uploaded. At some point in the future when the project has completed, the files in the object folder are deleted to recover network space.
 
+********
+Examples
+********
+
+Newspaper Digitization Workflow
+===============================
+
+Born-Digital Workflow
+=====================
+
+Simple Vendor Digitized Workflow
+================================
+
 **********
 Discussion
 **********
