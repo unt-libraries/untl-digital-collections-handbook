@@ -12,6 +12,7 @@ UNTL Digital Collections Handbook
 
    /guides/workflow-folders
    /guides/magicknumbers
+   /guides/ocr
 
 
 
