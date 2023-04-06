@@ -10,9 +10,11 @@ UNTL Digital Collections Handbook
    :maxdepth: 1
    :caption: Contents:
 
+   /guides/derivitives
    /guides/workflow-folders
    /guides/magicknumbers
    /guides/ocr
+   
 
 
 
